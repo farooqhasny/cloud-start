@@ -62,7 +62,7 @@ fn cloud_start(req: Request) -> Result<Response> {
                 font-size: 16px;
                 font-family: Sen,Europa,Avenir,system,-apple-system,'.SFNSText-Regular',San Francisco,Segoe UI,Helvetica Neue,Lucida Grande,sans-serif;
             \">
-                Congratulations! Your first Spin Application &mdash; powered by WebAssembly &mdash; is ready to go!
+               test Congratulations! Your first Spin Application &mdash; powered by WebAssembly &mdash; is ready to go!
                 </p>
                 <p><a style=\"font-size:16px;color:#848fa8;font-family: Sen,Europa,Avenir,system,-apple-system,'.SFNSText-Regular',San Francisco,Segoe UI,Helvetica Neue,Lucida Grande,sans-serif;\" href=\"https://developer.fermyon.com\" target=\"_blank\">Learn more about Spin and Fermyon Cloud!</a></p>
         </div>
